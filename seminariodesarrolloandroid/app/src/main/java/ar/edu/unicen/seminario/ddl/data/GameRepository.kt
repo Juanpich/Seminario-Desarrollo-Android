@@ -18,7 +18,6 @@ class GameRepository @Inject constructor(
         storeId: Int?,
         order: String?
     ): Result<List<ItemGames>> {
-        Log.d("Parametros_de_busqueda", "$key, $genreId, $platformId, $storeId, $order")
         return gameDataSource.getListGames(key, genreId, platformId, storeId, order)
     }
 
