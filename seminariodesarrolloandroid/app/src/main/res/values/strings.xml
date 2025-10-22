@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Vorterix</string>
+    <string name="menu">Menú</string>
+    <string name="welcome">Bienvenido a Vorterix, espero encuentre todo lo que buscaba</string>
+    <string name="return_menu">Aplicar</string>
+    <string name="text_order">Orden en el que se van a mostrar los juegos</string>
+    <string name="text_filter">Seleccione el filtro que desea aplicar</string>
+    <string name="clear_filter">Limpiar filtros</string>
+    <string name="retry_btn">Reintentar</string>
+</resources>

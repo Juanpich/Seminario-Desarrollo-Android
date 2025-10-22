@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="textColorPrimary">@color/brightLightBlue</color>
+    <color name="background">@color/fondo</color>
+    <color name="secondaryColor">@color/red</color>
+    <color name="acentoColor">@color/yellow</color>
+    <color name="primaryShadow800">@color/CprimaryShadow800</color>
+    <color name="primaryShadow700">@color/CprimaryShadow700</color>
+</resources>
